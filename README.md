@@ -7,7 +7,4 @@
 Hi there 👋. I’m Thanh Dat, I am currently a student at the VNHCM - University of Sicence
 ## Get in touch :coffee:
 
-- [Personal Blog](https://sagarviradiya.dev)
-- [Twitter](https://twitter.com/viradiya_sagar)
-- [Medium](https://medium.com/@sagarviradiya)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- [Facebook]([https://twitter.com/viradiya_sagar](https://www.facebook.com/jameks.hiro/))
