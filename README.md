@@ -1,10 +1,26 @@
-# Hey there :wave:
+# Hi there, I'm Thành Đạt! 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](truongthanhdat0305@gmail.com)
 
-## About me
+## 🚀 About Me
 
-Hi there 👋. I’m Thanh Dat, I am currently a student at the VNHCM - University of Science
-## Get in touch :coffee:
+🎓 I'm a student at [University of Science](https://www.hcmus.edu.vn/), pursuing a degree in Computer Science.
 
-- [Facebook](https://www.facebook.com/jameks.hiro/)
+🌱 Currently learning: **Web Development**
+
+💬 Ask me about: **C++, Data Structures, Algorithms**
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- Email: truongthanhdat6879@gmail.com 
+- Facebook: [Your GitHub](https://www.facebook.com/jameks.hiro/)
+
+---
+
+*Last updated on [July 21, 2024]*
+
