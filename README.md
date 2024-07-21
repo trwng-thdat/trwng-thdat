@@ -7,4 +7,4 @@
 Hi there 👋. I’m Thanh Dat, I am currently a student at the VNHCM - University of Science
 ## Get in touch :coffee:
 
-- [Facebook]([https://www.facebook.com/jameks.hiro/])
+- [Facebook](https://www.facebook.com/jameks.hiro/)
