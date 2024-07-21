@@ -1,7 +1,5 @@
 # Hi there, I'm Thành Đạt! 👋
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](truongthanhdat0305@gmail.com)
-
 ## 🚀 About Me
 
 🎓 I'm a student at [University of Science](https://www.hcmus.edu.vn/), pursuing a degree in Computer Science.
@@ -18,7 +16,7 @@
 ## 📫 How to reach me
 
 - Email: truongthanhdat6879@gmail.com 
-- Facebook: [Your GitHub](https://www.facebook.com/jameks.hiro/)
+- Facebook: [My facebook](https://www.facebook.com/jameks.hiro/)
 
 ---
 
