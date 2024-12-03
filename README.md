@@ -8,11 +8,6 @@
 
 💬 Ask me about: **C++, Data Structures, Algorithms**
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
 ## 📫 How to reach me
 
 - Email: truongthanhdat6879@gmail.com 
