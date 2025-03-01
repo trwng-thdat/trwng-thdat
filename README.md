@@ -1,12 +1,10 @@
-# Hi there, I'm Thành Đạt! 👋
+# Hi there, I'm Thanh Dat! 👋
 
 ## 🚀 About Me
 
 🎓 I'm a student at [University of Science](https://www.hcmus.edu.vn/), pursuing a degree in Computer Science.
 
 🌱 Currently learning: **Web Development**
-
-💬 Ask me about: **C++, Data Structures, Algorithms**
 
 ## 📫 How to reach me
 
