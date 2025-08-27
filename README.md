@@ -21,9 +21,9 @@
 ---
 
 ## 📫 Connect with Me  
-- GitHub: [Your GitHub link]  
-- LinkedIn: [Your LinkedIn link]  
-- Email: [Your email]  
+- LinkedIn: https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-%C4%91%E1%BA%A1t-33b0b32b3/  
+- Email: truongthanhdat0305@gmail.com
+- Facebook: https://www.facebook.com/jameks.hiro/?locale=vi_VN
 
 ---
 
