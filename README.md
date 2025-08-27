@@ -21,8 +21,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-%C4%91%E1%BA%A1t-33b0b32b3/)))
-- [Email](mailto:truongthanhdat0305@gmail.com)
+- [LinkedIn]((https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-%C4%91%E1%BA%A1t-33b0b32b3/)))
+- Email: truongthanhdat0305@gmail.com
 
 ---
 
