@@ -20,10 +20,10 @@
 
 ---
 
-## 📫 Connect with Me  
-- LinkedIn: https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-%C4%91%E1%BA%A1t-33b0b32b3/  
-- Email: truongthanhdat0305@gmail.com
-- Facebook: https://www.facebook.com/jameks.hiro/?locale=vi_VN
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-%C4%91%E1%BA%A1t-33b0b32b3/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:truongthanhdat0305@gmail.com)
+
 
 ---
 
