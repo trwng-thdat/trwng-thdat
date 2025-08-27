@@ -1,17 +1,30 @@
-# Hi there, I'm Thanh Dat! 👋
+# 👋 Hi, I'm Thanh Đạt  
 
-## 🚀 About Me
-
-🎓 I'm a student at [University of Science](https://www.hcmus.edu.vn/), pursuing a degree in Computer Science.
-
-🌱 Currently learning: **Web Development**
-
-## 📫 How to reach me
-
-- Email: truongthanhdat6879@gmail.com 
-- Facebook: [My facebook](https://www.facebook.com/jameks.hiro/)
+🎓 I'm currently a **junior student** at **University of Science**, majoring in **Information Technology**.  
+💻 I'm working as a **Backend Developer**, mainly focusing on building scalable and efficient server-side applications.  
 
 ---
 
-*Last updated on [July 21, 2024]*
+## 🚀 Tech Stack  
+- **Languages**: JavaScript | TypeScript  
+- **Backend Frameworks**: Express.js  
+- **Database & ORM**: PostgreSQL | Prisma ORM | Supabase  
+- **Other Interests**: API design, system architecture, performance optimization  
 
+---
+
+## 🌱 Currently Learning  
+- Advanced backend design patterns  
+- Improving database optimization with Prisma & PostgreSQL  
+- Cloud deployment & scalable server infrastructure  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [Your GitHub link]  
+- LinkedIn: [Your LinkedIn link]  
+- Email: [Your email]  
+
+---
+
+✨ Always exploring new technologies and passionate about solving backend challenges.  
