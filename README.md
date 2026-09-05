@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thanh Đạt  
 
-🎓 I'm currently a **junior student** at **University of Science**, majoring in **Information Technology**.  
+🎓 I'm currently a **Senior Student** at **University of Science**, majoring in **Information Technology**.  
 💻 I'm working as a **Backend Developer**, mainly focusing on building scalable and efficient server-side applications.  
 
 ---
