@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H854V150C760 185 660 195 560 170C460 145 380 120 280 140C180 160 90 185 0 160Z"/>
+  <path fill="url(#g)" opacity="0.35" d="M0 0H854V165C750 200 640 190 540 160C440 130 360 140 260 160C160 180 80 190 0 175Z"/>
+  <text x="427" y="78" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">Truong Thanh Dat</text>
+  <text x="427" y="114" text-anchor="middle" fill="#e0f2fe" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="2">BACKEND &amp; FULL-STACK ENGINEER</text>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Truong%20Thanh%20Dat&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Backend%20%26%20Full-stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="Truong Thanh Dat - Backend & Full-stack Engineer" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+APIs+with+NestJS+%26+Express;Multi-tenant+SaaS+%C2%B7+Queues+%C2%B7+Realtime;Shipping+AI+agent+platforms+to+production" alt="Typing SVG" /></a>
 
@@ -90,6 +90,6 @@ const dat = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
 
 </div>
